@@ -187,7 +187,7 @@ MIT License
 
 ## 🤝 Contributions
 
-PRs, issues, and discussions are welcome — but **keep it pragmatic**.
+PRs, issues, and discussions are welcome but **keep it pragmatic**.
 No over-engineering for the sake of architecture.
 
 ---
